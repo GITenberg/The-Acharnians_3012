@@ -1,0 +1,39 @@
+_repo: The-Acharnians_3012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Αριστοφάνης
+    - Ἀριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: It is the fifth century BC and Dikaiopolis, a peasant who is forced by
+  war to live in the city, has secured an unlikely peace for Athens in their war against
+  the Spartans. However, not all his fellow citizens agree with the new détente between
+  themselves and their hated enemies. It is up to Dikaiopolis, in increasingly farcical
+  circumstances, to defend his anti-war stance and save his precious peace. A timely
+  and timeless comedy, Acharnians was first produced in 452BC during one of the sporadic
+  and unreliable ceasefires in the Peloponnesian war between Athens and Sparta.
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek drama (Comedy) -- Translations into English'
+- !lcsh 'Aristophanes -- Translations into English'
+- !lcsh 'Athens (Greece) -- Drama'
+- !lcsh 'Peace treaties -- Drama'
+- !lcsh 'Comedies'
+- !lcc 'PA'
+- GITenberg
+title: The Acharnians
+url: http://www.gutenberg.org/ebooks/3012
