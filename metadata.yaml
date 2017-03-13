@@ -1,5 +1,8 @@
 _repo: The-Acharnians_3012
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristophanes
@@ -18,6 +21,8 @@ description: It is the fifth century BC and Dikaiopolis, a peasant who is forced
   circumstances, to defend his anti-war stance and save his precious peace. A timely
   and timeless comedy, Acharnians was first produced in 452BC during one of the sporadic
   and unreliable ceasefires in the Peloponnesian war between Athens and Sparta.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3012#The-Acharnians
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
