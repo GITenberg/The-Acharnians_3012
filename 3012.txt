@@ -10,8 +10,8 @@ Title: The Acharnians
 
 Author: Aristophanes
 
-Posting Date: January 15, 2009 [EBook #3012]
-Release Date: January, 2002
+Release Date: January 15, 2009 [EBook #3012]
+Last Updated: February 1, 2016
 
 Language: English
 
@@ -21,46 +21,45 @@ Character set encoding: ASCII
 
 
 
-
-Produced by Derek Davis
-
-
+Produced by Derek Davis, and David Widger
 
 
 
 THE ACHARNIANS
 
 By Aristophanes
-
-
 [Translator uncredited. Footnotes have been retained because they
 provide the meanings of Greek names, terms and ceremonies and explain
 puns and references otherwise lost in translation. Occasional Greek
-words in the footnotes have not been included. Footnote numbers,
-in brackets, start anew at (1) for each piece of dialogue, and each
+words in the footnotes have not been included. Footnote numbers, in
+brackets, start anew at (1) for each piece of dialogue, and each
 footnote follows immediately the dialogue to which it refers, labeled
 thus: f(1).]
 
 
 
+INTRODUCTION
+
+THE ACHARNIANS
+
+
 
 INTRODUCTION
 
-
 This is the first of the series of three Comedies--'The Acharnians,'
 'Peace' and 'Lysistrata'--produced at intervals of years, the sixth,
-tenth and twenty-first of the Peloponnesian War, and impressing on
-the Athenian people the miseries and disasters due to it and to the
+tenth and twenty-first of the Peloponnesian War, and impressing on the
+Athenian people the miseries and disasters due to it and to the
 scoundrels who by their selfish and reckless policy had provoked it, the
 consequent ruin of industry and, above all, agriculture, and the urgency
 of asking Peace. In date it is the earliest play brought out by the
-author in his own name and his first work of serious importance. It
-was acted at the Lenaean Festival, in January, 426 B.C., and gained the
+author in his own name and his first work of serious importance. It was
+acted at the Lenaean Festival, in January, 426 B.C., and gained the
 first prize, Cratinus being second.
 
-Its diatribes against the War and fierce criticism of the general
-policy of the War party so enraged Cleon that, as already mentioned,
-he endeavoured to ruin the author, who in 'The Knights' retorted by a
+Its diatribes against the War and fierce criticism of the general policy
+of the War party so enraged Cleon that, as already mentioned, he
+endeavoured to ruin the author, who in 'The Knights' retorted by a
 direct and savage personal attack on the leader of the democracy.
 
 The plot is of the simplest. Dicaeopolis, an Athenian citizen, but a
@@ -69,12 +68,12 @@ especially suffered in the Lacedaemonian invasions, sick and tired of
 the ill-success and miseries of the War, makes up his mind, if he fails
 to induce the people to adopt his policy of "peace at any price," to
 conclude a private and particular peace of his own to cover himself, his
-family, and his estate. The Athenians, momentarily elated by victory
-and over-persuaded by the demagogues of the day--Cleon and his
-henchmen, refuse to hear of such a thing as coming to terms. Accordingly
+family, and his estate. The Athenians, momentarily elated by victory and
+over-persuaded by the demagogues of the day--Cleon and his henchmen,
+refuse to hear of such a thing as coming to terms. Accordingly
 Dicaeopolis dispatches an envoy to Sparta on his own account, who comes
-back presently with a selection of specimen treaties in his pocket.
-The old man tastes and tries, special terms are arranged, and the play
+back presently with a selection of specimen treaties in his pocket. The
+old man tastes and tries, special terms are arranged, and the play
 concludes with a riotous and uproarious rustic feast in honour of the
 blessings of Peace and Plenty.
 
@@ -84,9 +83,9 @@ others of our author's pieces.
 
 Other specially comic incidents are: the scene where the two young
 daughters of the famished Megarian are sold in the market at Athens as
-suck(l)ing-pigs--a scene in which the convenient similarity of the
-Greek words signifying a pig and the 'pudendum muliebre' respectively
-is utilized in a whole string of ingenious and suggestive 'double
+suck(l)ing-pigs--a scene in which the convenient similarity of the Greek
+words signifying a pig and the 'pudendum muliebre' respectively is
+utilized in a whole string of ingenious and suggestive 'double
 entendres' and ludicrous jokes; another where the Informer, or
 Market-Spy, is packed up in a crate as crockery and carried off home by
 the Boeotian buyer.
@@ -96,11 +95,10 @@ Acharnae.
 
 
 
-
 THE ACHARNIANS
 
-
 DRAMATIS PERSONAE
+
 
      DICAEOPOLIS
      HERALD
@@ -124,12 +122,11 @@ DRAMATIS PERSONAE
      MESSENGERS
      CHORUS OF ACHARNIAN ELDERS
 
-
-SCENE: The Athenian Ecclesia on the Pnyx; afterwards Dicaeopolis' house
-in the country.
+SCENE: The Athenian Ecclesia on the Pnyx; afterwards Dicaeopolis' house in the country.
 
 
- DICAEOPOLIS(1) (alone)
+
+DICAEOPOLIS(1) (alone)
  What cares have not gnawed at my heart and how few have been the
  pleasures in my life!  Four, to be exact, while my troubles have been
  as countless as the grains of sand on the shore!  Let me see! of what
@@ -200,34 +197,34 @@ in the country.
  by the successive Lacedaemonian invasions, the people throughout the
  country had been compelled to seek shelter behind the walls of Athens.
 
- HERALD
+HERALD
  Move on up, move on, move on, to get within the consecrated area.(1)
 
  f(1) Shortly before the meeting of the Assembly, a number of young pigs
  were immolated and a few drops of their blood were sprinkled on the
  seats of the Prytanes; this sacrifice was in honour of Ceres.
 
- AMPHITHEUS
+AMPHITHEUS
  Has anyone spoken yet?
 
- HERALD
+HERALD
  Who asks to speak?
 
- AMPHITHEUS
+AMPHITHEUS
  I do.
 
- HERALD
+HERALD
  Your name?
 
- AMPHITHEUS
+AMPHITHEUS
  Amphitheus.
 
- HERALD
+HERALD
  You are no man.(1)
 
  f(1) The name, Amphitheus, contains (the Greek) word (for) 'god.'
 
- AMPHITHEUS
+AMPHITHEUS
  No!  I am an immortal!  Amphitheus was the son of Ceres and
  Triptolemus; of him was born Celeus.  Celeus wedded Phaenerete, my
  grandmother, whose son was Lucinus, and, being born of him I am an
@@ -238,74 +235,74 @@ in the country.
  f(1) Amongst other duties, it was the office of the Prytanes to look after
  the wants of the poor.
 
- A PRYTANIS
+A PRYTANIS
  Guards!
 
- AMPHITHEUS
+AMPHITHEUS
  Oh, Triptolemus and Ceres, do ye thus forsake your own blood?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Prytanes, in expelling this citizen, you are offering an outrage
  to the Assembly.  He only desired to secure peace for us and to sheathe
  the sword.
 
- PRYTANIS
+PRYTANIS
  Sit down and keep silence!
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, by Apollo, I will not, unless you are going to discuss the
  question of peace.
 
- HERALD
+HERALD
  The ambassadors, who are returned from the Court of the King!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Of what King?  I am sick of all those fine birds, the peacock
  ambassadors and their swagger.
 
- HERALD
+HERALD
  Silence!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh! oh! by Ecbatana,(1) what a costume!
 
  f(1) The summer residence of the Great King.
 
- AN AMBASSADOR
+AN AMBASSADOR
  During the archonship of Euthymenes, you sent us to the Great King
  on a salary of two drachmae per diem.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! those poor drachmae!
 
- AMBASSADOR
+AMBASSADOR
  We suffered horribly on the plains of the Cayster, sleeping under a tent,
  stretched deliciously on fine chariots, half dead with weariness.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And I was very much at ease, lying on the straw along the
  battlements!(1)
 
  f(1) Referring to the hardships he had endured garrisoning the walls of
  Athens during the Lacedaemonian invasions early in the War.
 
- AMBASSADOR
+AMBASSADOR
  Everywhere we were well received and forced to drink delicious
  wine out of golden or crystal flagons....
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, city of Cranaus,(1) thy ambassadors are laughing at thee!
 
  f(1) Cranaus, the second king of Athens, the successor of Cecrops.
 
- AMBASSADOR
+AMBASSADOR
  For great feeders and heavy drinkers are alone esteemed as men
  by the barbarians.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Just as here in Athens, we only esteem the most drunken debauchees.
 
- AMBASSADOR
+AMBASSADOR
  At the end of the fourth year we reached the King's Court, but
  he had left with his whole army to ease himself, and for the space of
  eight months he was thus easing himself in the midst of the golden
@@ -314,18 +311,18 @@ in the country.
  f(1) Lucian, in his 'Hermotimus,' speaks of these golden mountains as an
  apocryphal land of wonders and prodigies.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And how long was he replacing his dress?
 
- AMBASSADOR
+AMBASSADOR
  The whole period of a full moon; after which he returned to his palace;
  then he entertained us and had us served with oxen roasted whole
  in an oven.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Who ever saw an oxen baked in an oven?  What a lie!
 
- AMBASSADOR
+AMBASSADOR
  On my honour, he also had us served with a bird three
  times as large as Cleonymus,(1) and called the Boaster.
 
@@ -333,69 +330,69 @@ in the country.
  Aristophanes incessantly rallies him for his cowardice; he had cast away
  his buckler in a fight.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And do we give you two drachmae, that you should treat us to all
  this humbug?
 
- AMBASSADOR
+AMBASSADOR
  We are bringing to you Pseudartabas(1), the King's Eye.
 
  f(1) A name borne by certain officials of the King of Persia.  The actor of
  this part wore a mask, fitted with a single eye of great size.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I would a crow might pluck out thine with his beak, you cursed
  ambassador!
 
- HERALD
+HERALD
  The King's Eye!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Eh!  Great Gods!  Friend, with thy great eye, round like the hole through
  which the oarsman passes his sweep, you have the air of a galley
  doubling a cape to gain port.
 
- AMBASSADOR
+AMBASSADOR
  Come, Pseudartabas, give forth the message for the Athenians
  with which you were charged by the Great King.
 
- PSEUDARTABAS
+PSEUDARTABAS
  Jartaman exarx 'anapissonia satra.(1)
 
  f(1) Jargon, no doubt meaningless in all languages.
 
- AMBASSADOR
+AMBASSADOR
  Do you understand what he says?
 
- DICAEOPOLIS
+DICAEOPOLIS
  By Apollo, not I!
 
- AMBASSADOR (TO THE PRYTANES)
+AMBASSADOR (TO THE PRYTANES)
  He says that the Great King will send you gold.  Come, utter the word
  'gold' louder and more distinctly.
 
- PSEUDARTABAS
+PSEUDARTABAS
  Thou shalt not have gold, thou gaping-arsed Ionian.(1)
 
  f(1) The Persians styled all Greeks 'Ionians' without distinction; here
  the Athenians are intended.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! may the gods forgive me, but that is clear enough!
 
- AMBASSADOR
+AMBASSADOR
  What does he say?
 
- DICAEOPOLIS
+DICAEOPOLIS
  That the Ionians are debauchees and idiots, if they expect to receive
  gold from the barbarians.
 
- AMBASSADOR
+AMBASSADOR
  Not so, he speaks of medimni(1) of gold.
 
  f(1) A Greek measure, containing about six modii.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What medimni?  Thou are but a great braggart; but get your way; I
  will find out the truth by myself.  Come now, answer me clearly, if you
  do not wish me to dye your skin red.  Will the Great King send us gold?
@@ -410,44 +407,44 @@ in the country.
  f(1) Noted for his extreme ugliness and his obscenity.  Aristophanes
  frequently holds him to scorn in his comedies.
 
- HERALD
+HERALD
  Silence!  Let all be seated.  The Senate invites the King's Eye to the
  Prytaneum.(1)
 
  f(1) Ambassadors were entertained there at the public expense.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Is this not sufficient to drive one to hang oneself?  Here I
  stand chilled to the bone, whilst the doors of the Prytaneum fly
  wide open to lodge such rascals.  But I will do something great and
  bold.  Where is Amphitheus?  Come and speak with me.
 
- AMPHITHEUS
+AMPHITHEUS
  Here I am.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Take these eight drachmae and go and conclude a truce with the
  Lacedaemonians for me, my wife and my children; I leave you free,
  my dear citizens, to send out embassies and to stand gaping in the air.
 
- HERALD
+HERALD
  Bring in Theorus, who has returned from the Court of Sitalces.(1)
 
  f(1) King of Thrace.
 
- THEORUS
+THEORUS
  I am here.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Another humbug!
 
- THEORUS
+THEORUS
  We should not have remained long in Thrace...
 
- DICAEOPOLIS
+DICAEOPOLIS
  Forsooth, no, if you had not been well paid.
 
- THEORUS
+THEORUS
  ...if the country had not been covered with snow; the rivers were
  ice-bound at the time that Theognis(1) brought out his tragedy here;
  during the whole of that time I was holding my own with
@@ -464,38 +461,38 @@ in the country.
  f(2) A feast lasting three days and celebrated during the month Pyanepsion
  (November).  The Greek word contains the suggestion of fraud.
 
- DICAEOPOLIS
+DICAEOPOLIS
  May I die if I believe a word of what you tell us!  Excepting the
  grasshoppers, there is not a grain of truth in it all!
 
- THEORUS
+THEORUS
  And he has sent you the most warlike soldiers of all Thrace.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Now we shall begin to see clearly.
 
- HERALD
+HERALD
  Come hither, Thracians, whom Theorus brought.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What plague have we here?
 
- THEORUS
+THEORUS
  'Tis the host of the Odomanti.(1)
 
  f(1) A Thracian tribe from the right bank of the Strymon.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Of the Odomanti?  Tell me what it means.  Who has mutilated them
  like this?
 
- THEORUS
+THEORUS
  If they are given a wage of two drachmae, they will put all
  Boeotia(1) to fire and sword.
 
  f(1) The Boeotians were the allies of Sparta.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Two drachmae to those circumcised hounds!  Groan aloud, ye people
  of rowers, bulwark of Athens!  Ah! great gods! I am undone; these
  Odomanti are robbing me of my garlic!(1) Will you give me back
@@ -504,13 +501,13 @@ in the country.
  f(1) Dicaeopolis had brought a clove of garlic with him to eat during
  the Assembly.
 
- THEORUS
+THEORUS
  Oh! wretched man! do not go near them; they have eaten garlic(1).
 
  f(1) Garlic was given to game-cocks, before setting them at each other,
  to give them pluck for the fight.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Prytanes, will you let me be treated in this manner, in my own
  country and by barbarians?  But I oppose the discussion of paying
  a wage to the Thracians; I announce an omen; I have just felt a drop
@@ -519,22 +516,22 @@ in the country.
  f(1) At the lest unfavourable omen, the sitting of the Assembly was
  declared at an end.
 
- HERALD
+HERALD
  Let the Thracians withdraw and return the day after tomorrow;
  the Prytanes declare the sitting at an end.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ye gods, what garlic I have lost!  But here comes Amphitheus
  returned from Lacedaemon.  Welcome, Amphitheus.
 
- AMPHITHEUS
+AMPHITHEUS
  No, there is no welcome for me and I fly as fast as I can, for I
  am pursued by the Acharnians.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Why, what has happened?
 
- AMPHITHEUS
+AMPHITHEUS
  I was hurrying to bring your treaty of truce, but some old dotards
  from Acharnae(1) got scent of the thing; they are veterans of Marathon,
  tough as oak or maple, of which they are made for sure--rough and
@@ -546,42 +543,42 @@ in the country.
  f(1) The deme of Acharnae was largely inhabited by charcoal-burners,
  who supplied the city with fuel.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Let 'em shout as much as they please!  But HAVE you brought me
  a treaty?
 
- AMPHITHEUS
+AMPHITHEUS
  Most certainly, here are three samples to select from,(1) this one is
  five years old; take it and taste.
 
  f(1) He presents them in the form of wines contained in three separate
  skins.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Faugh!
 
- AMPHITHEUS
+AMPHITHEUS
  Well?
 
- DICAEOPOLIS
+DICAEOPOLIS
  It does not please me; it smells of pitch and of the ships they are
  fitting out.(1)
 
  f(1) Meaning, preparations for war.
 
- AMPHITHEUS
+AMPHITHEUS
  Here is another, ten years old; taste it.
 
- DICAEOPOLIS
+DICAEOPOLIS
  It smells strongly of the delegates, who go around the towns
  to chide the allies for their slowness.(1)
 
  f(1) Meaning, securing allies for the continuance of the war.
 
- AMPHITHEUS
+AMPHITHEUS
  This last is a truce of thirty years, both on sea and land.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh! by Bacchus! what a bouquet!  It has the aroma of nectar and
  ambrosia; this does not say to us, "Provision yourselves for three
  days." But it lisps the gentle numbers, "Go whither you will."(1)
@@ -596,10 +593,10 @@ in the country.
  was a temple to Bacchus, erected outside the city.  They took place
  during the month Anthesterion (February).
 
- AMPHITHEUS
+AMPHITHEUS
  And I shall run away, for I'm mortally afraid of the Acharnians.
 
- CHORUS
+CHORUS
  This way all!  Let us follow our man; we will demand him of
  everyone we meet; the public weal makes his seizure imperative.  Ho,
  there!  tell me which way the bearer of the truce has gone; he has escaped
@@ -622,18 +619,18 @@ in the country.
 
  f(2) He had been Archon at the time of the battle of Marathon.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Peace! profane men!(1)
 
  f(1) A sacred formula, pronounced by the priest before offering
  the sacrifice.
 
- CHORUS
+CHORUS
  Silence all!  Friends, do you hear the sacred formula?  Here is he,
  whom we seek!  This way, all!  Get out of his way, surely he comes
  to offer an oblation.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Peace, profane men!  Let the basket-bearer(1) come forward, and thou
  Xanthias, hold the phallus well upright.(2)
 
@@ -646,21 +643,21 @@ in the country.
  with green foliage, sang improvised airs, call 'Phallics,' full of obscenity
  and suggestive 'double entendres.'
 
- WIFE OF DICAEOPOLIS
+WIFE OF DICAEOPOLIS
  Daughter, set down the basket and let us begin the sacrifice.
 
- DAUGHTER OF DICAEOPOLIS
+DAUGHTER OF DICAEOPOLIS
  Mother, hand me the ladle, that I may spread the sauce on the
  cake.
 
- DICAEOPOLIS
+DICAEOPOLIS
  It is well! Oh, mighty Bacchus, it is with joy that, freed from
  military duty, I and all mine perform this solemn rite and offer
  thee this sacrifice; grant that I may keep the rural Dionysia
  without hindrance and that this truce of thirty years may be
  propitious for me.
 
- WIFE OF DICAEOPOLIS
+WIFE OF DICAEOPOLIS
  Come, my child, carry the basket gracefully and with a grave, demure
  face.  Happy he, who shall be your possessor and embrace you so firmly
  at dawn,(1) that you belch wind like a weasel.  Go forward, and have a care
@@ -669,7 +666,7 @@ in the country.
  f(1) The most propitious moment for Love's gambols, observes the
  scholiast.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Xanthias, walk behind the basket-bearer and hold the phallus well
  erect; I will follow, singing the Phallic hymn; thou, wife, look on from
  the top of the terrace.(1) Forward! Oh, Phales,(2) companion of the orgies
@@ -693,38 +690,38 @@ in the country.
 
  f(4) Lamachus was an Athenian general, who figures later in this comedy.
 
- CHORUS
+CHORUS
  It is he, he himself.  Stone him, stone him, stone him, strike
  the wretch.  All, all of you, pelt him, pelt him!
 
- DICAEOPOLIS
+DICAEOPOLIS
  What is this?  By Heracles, you will smash my pot.(1)
 
  f(1) At the rural Dionysia a pot of kitchen vegetables was borne in
  the procession along with other emblems.
 
- CHORUS
+CHORUS
  It is you that we are stoning, you miserable scoundrel.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And for what sin, Acharnian Elders, tell me that!
 
- CHORUS
+CHORUS
  You ask that, you impudent rascal, traitor to your country; you
  alone amongst us all have concluded a truce, and you dare to look us
  in the face!
 
- DICAEOPOLIS
+DICAEOPOLIS
  But you do not know WHY I have treated for peace.  Listen!
 
- CHORUS
+CHORUS
  Listen to you?  No, no, you are about to die, we will annihilate
  you with our stones.
 
- DICAEOPOLIS
+DICAEOPOLIS
  But first of all, listen.  Stop, my friends.
 
- CHORUS
+CHORUS
  I will hear nothing; do not address me; I hate you more than I
  do Cleon,(1) whom one day I shall flay to make sandals for the Knights.
  Listen to your long speeches, after you have treated with the
@@ -734,100 +731,100 @@ in the country.
  sworn foe and particular detestation of the Knights or aristocratic party
  generally.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Friends, leave the Laconians out of debate and consider only
  whether I have not done well to conclude my truce.
 
- CHORUS
+CHORUS
  Done well! when you have treated with a people who know neither
  gods, nor truth, nor faith.
 
- DICAEOPOLIS
+DICAEOPOLIS
  We attribute too much to the Laconians; as for myself, I know that
  they are not the cause of all our troubles.
 
- CHORUS
+CHORUS
  Oh, indeed, rascal!  You dare to use such language to me and then
  expect me to spare you!
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, no, they are not the cause of all our troubles, and I who
  address you claim to be able to prove that they have much to
  complain of in us.
 
- CHORUS
+CHORUS
  This passes endurance; my heart bounds with fury.  Thus you dare to
  defend our enemies.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Were my head on the block I would uphold what I say and rely on
  the approval of the people.
 
- CHORUS
+CHORUS
  Comrades, let us hurl our stones and dye this fellow purple.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What black fire-brand has inflamed your heart!  You will not hear
  me?  You really will not, Acharnians?
 
- CHORUS
+CHORUS
  No, a thousand times, no.
 
- DICAEOPOLIS
+DICAEOPOLIS
  This is a hateful injustice.
 
- CHORUS
+CHORUS
  May I die, if I listen.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Nay, nay! have mercy, have mercy, Acharnians.
 
- CHORUS
+CHORUS
  You shall die.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Well, blood for blood!  I will kill your dearest friend.  I have
  here the hostages of Acharnae;(1) I shall disembowel them.
 
  f(1) That is, the baskets of charcoal.
 
- CHORUS
+CHORUS
  Acharnians, what means this threat?  Has he got one of our children
  in his house?  What gives him such audacity?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Stone me, if it please you; I shall avenge myself on this.
  (SHOWS A BASKET.) Let us see whether you have any love
  for your coals.
 
- CHORUS
+CHORUS
  Great Gods! this basket is our fellow-citizen.  Stop, stop,
  in heaven's name!
 
- DICAEOPOLIS
+DICAEOPOLIS
  I shall dismember it despite your cries; I will listen to nothing.
 
- CHORUS
+CHORUS
  How! will you kill this coal-basket, my beloved comrade?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Just now, you would not listen to me.
 
- CHORUS
+CHORUS
  Well, speak now, if you will; tell us, tell us you have a weakness
  for the Lacedaemonians.  I consent to anything; never will I forsake
  this dear little basket.
 
- DICAEOPOLIS
+DICAEOPOLIS
  First, throw down your stones.
 
- CHORUS
+CHORUS
  There! 'tis done.  And you, do put away your sword.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Let me see that no stones remain concealed in your cloaks.
 
- CHORUS
+CHORUS
  They are all on the ground; see how we shake our garments.  Come,
  no haggling, lay down your sword; we threw away everything while
  crossing from one side of the stage to the other.(1)
@@ -835,7 +832,7 @@ in the country.
  f(1) The stage of the Greek theatre was much broader, and at the same
  time shallower, than in a modern playhouse.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What cries of anguish you would have uttered had these coals of
  Parnes(1) been dismembered, and yet it came very near it; had they
  perished, their death would have been due to the folly of their
@@ -847,13 +844,13 @@ in the country.
 
  f(1) A mountain in Attica, in the neighbourhood of Acharnae.
 
- CHORUS
+CHORUS
  Well then, bring out a block before your door, scoundrel, and
  let us hear the good grounds you can give us; I am curious to know
  them.  Now mind, as you proposed yourself, place your head on the block
  and speak.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Here is the block; and, though I am but a very sorry speaker, I
  wish nevertheless to talk freely of the Lacedaemonians and without the
  protection of my buckler.  Yet I have many reasons for fear.  I know our
@@ -876,7 +873,7 @@ in the country.
  having scoffed at Athens before strangers, many of whom were present at
  the performance.  The play is now lost.
 
- CHORUS
+CHORUS
  What evasions, subterfuges and delays!  Hold! here is the sombre
  helmet of Pluto with its thick bristling plume; Hieronymus(1) lends it to
  you; then open Sisyphus'(2) bag of wiles; but hurry, hurry, pray, for
@@ -888,48 +885,48 @@ in the country.
  to which he was put by Pluto.  He was cunning enough to break loose out
  of hell, but Hermes brought him back again.
 
- DICAEOPOLIS
+DICAEOPOLIS
  The time has come for me to manifest my courage, so I will go
  and seek Euripides.  Ho! slave, slave!
 
- SLAVE
+SLAVE
  Who's there?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Is Euripides at home?
 
- SLAVE
+SLAVE
  He is and he isn't; understand that, if you have wit for't.
 
- DICAEOPOLIS
+DICAEOPOLIS
  How?  He is and he isn't!(1)
 
  f(1) This whole scene is directed at Euripides; Aristophanes ridicules the
  subtleties of his poetry and the trickeries of his staging, which, according
  to him, he only used to attract the less refined among his audience.
 
- SLAVE
+SLAVE
  Certainly, old man; busy gathering subtle fancies here and
  there, his mind is not in the house, but he himself is; perched aloft,
  he is composing a tragedy.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, Euripides, you are indeed happy to have a slave so quick at
  repartee!  Now, fellow, call your master.
 
- SLAVE
+SLAVE
  Impossible!
 
- DICAEOPOLIS
+DICAEOPOLIS
  So much the worse.  But I will not go.  Come, let us knock at the door.
  Euripides, my little Euripides, my darling Euripides, listen;
  never had man greater right to your pity.  It is Dicaeopolis of the
  Chollidan Deme who calls you.  Do you hear?
 
- EURIPIDES
+EURIPIDES
  I have no time to waste.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Very well, have yourself wheeled out here.(1)
 
  f(1) "Wheeled out"--that is, by means of a mechanical contrivance of
@@ -938,23 +935,23 @@ in the country.
  be clearly made out from the descriptions, swung out or wheeled out
  on to the main stage.
 
- EURIPIDES
+EURIPIDES
  Impossible.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Nevertheless...
 
- EURIPIDES
+EURIPIDES
  Well, let them roll me out; as to coming down, I have not
  the time.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Euripides....
 
- EURIPIDES
+EURIPIDES
  What words strike my ear?
 
- DICAEOPOLIS
+DICAEOPOLIS
  You perch aloft to compose tragedies, when you might just as
  well do them on the ground.  I am not astonished at your introducing
  cripples on the stage.(1) And why dress in these miserable tragic rags?
@@ -966,7 +963,7 @@ in the country.
  f(1) Having been lamed, it is of course implied, by tumbling from the lofty
  apparatus on which the Author sat perched to write his tragedies.
 
- EURIPIDES
+EURIPIDES
  What rags do you prefer?  Those in which I rigged out Aeneus(1) on
  the stage, that unhappy, miserable old man?
 
@@ -975,43 +972,43 @@ in the country.
  'Aeneus,' 'Phoenix,' 'Philoctetes,' 'Bellerophon,' 'Telephus,' Ino' are titles
  of six tragedies of his in this genre of which fragments are extant.
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, I want those of some hero still more unfortunate.
 
- EURIPIDES
+EURIPIDES
  Of Phoenix, the blind man?
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, not of Phoenix, you have another hero more unfortunate than him.
 
- EURIPIDES
+EURIPIDES
  Now, what tatters DOES he want?  Do you mean those of the beggar
  Philoctetes?
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, of another far more the mendicant.
 
- EURIPIDES
+EURIPIDES
  Is it the filthy dress of the lame fellow, Bellerophon?
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, 'tis not Bellerophon; he, whom I mean, was not only lame and a
  beggar, but boastful and a fine speaker.
 
- EURIPIDES
+EURIPIDES
  Ah! I know, it is Telephus, the Mysian.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Yes, Telephus.  Give me his rags, I beg of you.
 
- EURIPIDES
+EURIPIDES
  Slave! give him Telephus' tatters; they are on top of the rags
  of Thyestes and mixed with those of Ino.
 
- SLAVE
+SLAVE
  Catch hold! here they are.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh! Zeus, whose eye pierces everywhere and embraces all, permit me
  to assume the most wretched dress on earth.  Euripides, cap your
  kindness by giving me the little Mysian hat, that goes so well with
@@ -1024,68 +1021,68 @@ in the country.
  Line borrowed from Euripides.  A great number of verses are similarly
  parodied in this scene.
 
- EURIPIDES
+EURIPIDES
  I will give you the hat; I love the clever tricks of an ingenious
  brain like yours.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Rest happy, and may it befall Telephus as I wish.  Ah!  I already
  feel myself filled with quibbles.  But I must have a beggar's staff.
 
- EURIPIDES
+EURIPIDES
  Here you are, and now get you gone from this porch.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, my soul!  You see how you are driven from this house, when I
  still need so many accessories.  But let us be pressing, obstinate,
  importunate.  Euripides, give me a little basket with a lamp alight inside.
 
- EURIPIDES
+EURIPIDES
  Whatever do you want such a thing as that for?
 
- DICAEOPOLIS
+DICAEOPOLIS
  I do not need it, but I want it all the same.
 
- EURIPIDES
+EURIPIDES
  You importune me; get you gone!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Alas! may the gods grant you a destiny as brilliant as your
  mother's.(1)
 
  f(1) Report said that Euripides' mother had sold vegetables on the market.
 
- EURIPIDES
+EURIPIDES
  Leave me in peace.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, just a little broken cup.
 
- EURIPIDES
+EURIPIDES
  Take it and go and hang yourself.  What a tiresome fellow!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! you do not know all the pain you cause me.  Dear, good
  Euripides, nothing beyond a small pipkin stoppered with a sponge.
 
- EURIPIDES
+EURIPIDES
  Miserable man!  You are robbing me of an entire tragedy.(1) Here, take it
  and be off.
 
  f(1) Aristophanes means, of course, to imply that the whole talent of
  Euripides lay in these petty details of stage property.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I am going, but, great gods! I need one thing more; unless I
  have it, I am a dead man.  Hearken, my little Euripides, only give me
  this and I go, never to return.  For pity's sake, do give me a few
  small herbs for my basket.
 
- EURIPIDES
+EURIPIDES
  You wish to ruin me then.  Here, take what you want; but it is
  all over with my pieces!
 
- DICAEOPOLIS
+DICAEOPOLIS
  I won't ask another thing; I'm going.  I am too importunate and
  forget that I rouse against me the hate of kings.--Ah! wretch that I am!
  I am lost!  I have forgotten one thing, without which all the rest is
@@ -1094,10 +1091,10 @@ in the country.
  absolutely the last; give me some of the chervil your mother left
  you in her will.
 
- EURIPIDES
+EURIPIDES
  Insolent hound!  Slave, lock the door!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, my soul!  I must go away without the chervil.  Art thou
  sensible of the dangerous battle we are about to engage upon in
  defending the Lacedaemonians?  Courage, my soul, we must plunge
@@ -1106,13 +1103,13 @@ in the country.
  our head to say what we hold for truth.  Courage and boldly to
  the front.  I wonder I am so brave.
 
- CHORUS
+CHORUS
  What do you purport doing?  what are you going to say?  What an
  impudent fellow!  what a brazen heart!  to dare to stake his head and
  uphold an opinion contrary to that of us all!  And he does not
  tremble to face this peril.  Come, it is you who desired it, speak!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Spectators, be not angered if, although I am a beggar, I dare in
  a Comedy to speak before the people of Athens of the public weal;
  Comedy too can sometimes discern what is right.  I shall not please,
@@ -1123,7 +1120,7 @@ in the country.
  without chaff; as to the resident strangers settled among us, they
  and the citizens are one, like the straw and the ear.
 
- I detest the Lacedaemonians with all my heart, and may Posidon,
+I detest the Lacedaemonians with all my heart, and may Posidon,
  the god of Taenarus,(2) cause an earthquake and overturn their dwellings!
  My vines also have been cut.  But come (there are only friends who
  hear me), why accuse the Laconians of all our woes?  Some men (I do not
@@ -1177,105 +1174,105 @@ in the country.
  the Athenians, like months of these islands previous to and during
  the first part of the Peloponnesian War.
 
- FIRST SEMI-CHORUS
+FIRST SEMI-CHORUS
  Oh! wretch! oh! infamous man!  You are naught but a beggar and
  yet you dare to talk to us like this!  you insult their worships
  the informers!
 
- SECOND SEMI-CHORUS
+SECOND SEMI-CHORUS
  By Posidon! he speaks the truth; he has not lied in a single detail.
 
- FIRST SEMI-CHORUS
+FIRST SEMI-CHORUS
  But though it be true, need he say it?  But you'll have no great
  cause to be proud of your insolence!
 
- SECOND SEMI-CHORUS
+SECOND SEMI-CHORUS
  Where are you running to?  Don't you move; if you strike this man,
  I shall be at you.
 
- FIRST SEMI-CHORUS
+FIRST SEMI-CHORUS
  Lamachus, whose glance flashes lightning, whose plume
  petrifies thy foes, help!  Oh! Lamachus, my friend, the hero of my
  tribe and all of you, both officers and soldiers, defenders of our
  walls, come to my aid; else is it all over with me!
 
- LAMACHUS
+LAMACHUS
  Whence comes this cry of battle?  where must I bring my aid?
  where must I sow dread?  who wants me to uncase my dreadful Gorgon's
  head?(1)
 
  f(1) A figure of Medusa's head, forming the centre of Lamachus' shield.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, Lamachus, great hero!  Your plumes and your cohorts terrify me.
 
- CHORUS
+CHORUS
  This man, Lamachus, incessantly abuses Athens.
 
- LAMACHUS
+LAMACHUS
  You are but a mendicant and you dare to use language of this sort?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, brave Lamachus, forgive a beggar who speaks at hazard.
 
- LAMACHUS
+LAMACHUS
  But what have you said?  Let us hear.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I know nothing about it; the sight of weapons makes me dizzy.
  Oh! I adjure you, take that fearful Gorgon somewhat farther away.
 
- LAMACHUS
+LAMACHUS
  There.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Now place it face downwards on the ground.
 
- LAMACHUS
+LAMACHUS
  It is done.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Give me a plume out of your helmet.
 
- LAMACHUS
+LAMACHUS
  Here is a feather.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And hold my head while I vomit; the plumes have turned my stomach.
 
- LAMACHUS
+LAMACHUS
  Hah! what are you proposing to do?  do you want to make yourself
  vomit with this feather?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Is it a feather?  what bird's?  a braggart's?
 
- LAMACHUS
+LAMACHUS
  Ah! ah! I will rip you open.
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, no, Lamachus!  Violence is out of place here!  But as you are so
  strong, why did you not circumcise me?  You have all the tools you want
  for the operation there.
 
- LAMACHUS
+LAMACHUS
  A beggar dares thus address a general!
 
- DICAEOPOLIS
+DICAEOPOLIS
  How?  Am I a beggar?
 
- LAMACHUS
+LAMACHUS
  What are you then?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Who am I?  A good citizen, not ambitious; a soldier, who has fought
  well since the outbreak of the war, whereas you are but a vile
  mercenary.
 
- LAMACHUS
+LAMACHUS
  They elected me...
 
- DICAEOPOLIS
+DICAEOPOLIS
  Yes, three cuckoos did!(1) If I have concluded peace, 'twas
  disgust that drove me; for I see men with hoary heads in the ranks and
  young fellows of your age shirking service.  Some are in Thrace getting
@@ -1293,10 +1290,10 @@ in the country.
  of alliance in view of the struggle with the Lacedaemonians; but only
  young debauchees of aristocratic connections had been chosen as envoys.
 
- LAMACHUS
+LAMACHUS
  They were elected.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And why do you always receive your pay, when none of these
  others ever gets any?  Speak, Marilades, you have grey hair; well then,
  have you ever been entrusted with a mission?  See! he shakes his
@@ -1309,27 +1306,27 @@ in the country.
 
  f(1) A contemporary orator apparently, otherwise unknown.
 
- LAMACHUS
+LAMACHUS
  Oh! in freedom's name! are such exaggerations to be borne?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Lamachus is well content; no doubt he is well paid, you know.
 
- LAMACHUS
+LAMACHUS
  But I propose always to war with the Peloponnesians, both at sea, on land
  and everywhere to make them tremble, and trounce them soundly.
 
- DICAEOPOLIS
+DICAEOPOLIS
  For my own part, I make proclamation to all Peloponnesians,
  Megarians and Boeotians, that to them my markets are open; but I debar
  Lamachus from entering them.
 
- CHORUS
+CHORUS
  Convinced by this man's speech, the folk have changed their view
  and approve him for having concluded peace.  But let us prepare for the
  recital of the parabasis.(1)
 
- Never since our poet presented Comedies, has he praised himself
+Never since our poet presented Comedies, has he praised himself
  upon the stage; but, having been slandered by his enemies amongst
  the volatile Athenians, accused of scoffing at his country and of
  insulting the people, to-day he wishes to reply and regain for himself
@@ -1364,14 +1361,14 @@ in the country.
  never will you find me a political poltroon, a prostitute to the
  highest bidder.
 
- I invoke thee, Acharnian Muse, fierce and fell as the devouring fire;
+I invoke thee, Acharnian Muse, fierce and fell as the devouring fire;
  sudden as the spark that bursts from the crackling oaken coal when
  roused by the quickening fan to fry little fishes, while others knead
  the dough or whip the sharp Thasian pickle with rapid hand, so break
  forth, my Muse, and inspire thy tribesmen with rough, vigorous,
  stirring strains.
 
- We others, now old men and heavy with years, we reproach the city;
+We others, now old men and heavy with years, we reproach the city;
  so many are the victories we have gained for the Athenian fleets
  that we well deserve to be cared for in our declining life; yet far
  from this, we are ill-used, harassed with law-suits, delivered over to
@@ -1386,7 +1383,7 @@ in the country.
  sentenced to a fine,(3) he weeps, he sobs and says to his friend,
  "This fine robs me of the last trifle that was to have bought my coffin."
 
- Is this not a scandal?  What! the clepsydra(4) is to kill the
+Is this not a scandal?  What! the clepsydra(4) is to kill the
  white-haired veteran, who, in fierce fighting, has so oft covered
  himself with glorious sweat, whose valour at Marathon saved the
  country!  'Twas we who pursued on the field of Marathon,
@@ -1428,7 +1425,7 @@ in the country.
 
  f(8) Alcibiades.
 
- DICAEOPOLIS
+DICAEOPOLIS
  These are the confines of my market-place.  All Peloponnesians,
  Megarians, Boeotians, have the right to come and trade here,
  provided they sell their wares to me and not to Lamachus.  As
@@ -1443,17 +1440,17 @@ in the country.
 
  f(3) According to the Athenian custom.
 
- A MEGARIAN
+A MEGARIAN
  Hail! market of Athens, beloved of Megarians.  Let Zeus, the patron
  of friendship, witness, I regretted you as a mother mourns her son.
  Come, poor little daughters of an unfortunate father, try to find
  something to eat; listen to me with the full heed of an empty belly.
  Which would you prefer?  To be sold or to cry with hunger?
 
- DAUGHTERS
+DAUGHTERS
  To be sold, to be sold!
 
- MEGARIAN
+MEGARIAN
  That is my opinion too.  But who would make so sorry a deal as to
  buy you?  Ah! I recall me a Megarian trick; I am going to disguise
  you as little porkers, that I am offering for sale.  Fit your hands
@@ -1465,251 +1462,251 @@ in the country.
  Dicaeopolis.  Where is be?  Dicaeopolis, do you want to buy
  some nice little porkers?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Who are you?  a Megarian?
 
- MEGARIAN
+MEGARIAN
  I have come to your market.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Well, how are things at Megara?(1)
 
  f(1) Megara was allied to Sparta and suffered during the war more than
  any other city because of its proximity to Athens.
 
- MEGARIAN
+MEGARIAN
  We are crying with hunger at our firesides.
 
- DICAEOPOLIS
+DICAEOPOLIS
  The fireside is jolly enough with a piper.  But what else is
  doing at Megara, eh?
 
- MEGARIAN
+MEGARIAN
  What else?  When I left for the market, the authorities were taking
  steps to let us die in the quickest manner.
 
- DICAEOPOLIS
+DICAEOPOLIS
  That is the best way to get you out of all your troubles.
 
- MEGARIAN
+MEGARIAN
  True.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What other news of Megara?  What is wheat selling at?
 
- MEGARIAN
+MEGARIAN
  With us it is valued as highly as the very gods in heaven!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Is it salt that you are bringing?
 
- MEGARIAN
+MEGARIAN
  Are you not holding back the salt?
 
- DICAEOPOLIS
+DICAEOPOLIS
  'Tis garlic then?
 
- MEGARIAN
+MEGARIAN
  What! garlic!  do you not at every raid grub up the ground with your
  pikes to pull out every single head?
 
- DICAEOPOLIS
+DICAEOPOLIS
  What DO you bring then?
 
- MEGARIAN
+MEGARIAN
  Little sows, like those they immolate at the Mysteries.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! very well, show me them.
 
- MEGARIAN
+MEGARIAN
  They are very fine; feel their weight.  See! how fat and fine.
 
- DICAEOPOLIS
+DICAEOPOLIS
  But what is this?
 
- MEGARIAN
+MEGARIAN
  A SOW, for a certainty.(1)
 
  f(1) Throughout this whole scene there is an obscene play upon (a) word
  which means in Greek both 'sow' and 'a woman's organs of generation.'
 
- DICAEOPOLIS
+DICAEOPOLIS
  You say a sow!  Of what country, then?
 
- MEGARIAN
+MEGARIAN
   From Megara.  What! is it not a sow then?
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, I don't believe it is.
 
- MEGARIAN
+MEGARIAN
  This is too much!  what an incredulous man!  He says 'tis not a sow;
  but we will stake, an you will, a measure of salt ground up with
  thyme, that in good Greek this is called a sow and nothing else.
 
- DICAEOPOLIS
+DICAEOPOLIS
  But a sow of the human kind.
 
- MEGARIAN
+MEGARIAN
  Without question, by Diocles! of my own breed!  Well! What think
  you?  will you hear them squeal?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Well, yes, I' faith, I will.
 
- MEGARIAN
+MEGARIAN
  Cry quickly, wee sowlet; squeak up, hussy, or by Hermes! I take you
  back to the house.
 
- GIRL
+GIRL
  Wee-wee, wee-wee!
 
- MEGARIAN
+MEGARIAN
  Is that a little sow, or not?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Yes, it seems so; but let it grow up, and it will be a fine fat bitch.
 
- MEGARIAN
+MEGARIAN
  In five years it will be just like its mother.
 
- DICAEOPOLIS
+DICAEOPOLIS
  But it cannot be sacrificed.
 
- MEGARIAN
+MEGARIAN
  And why not?
 
- DICAEOPOLIS
+DICAEOPOLIS
  It has no tail.(1)
 
  f(1) Sacrificial victims were bound to be perfect in every part; an animal,
  therefore, without a tail could not be offered.
 
- MEGARIAN
+MEGARIAN
  Because it is quite young, but in good time it will have a big one,
  thick and red.
 
- DICAEOPOLIS
+DICAEOPOLIS
  The two are as like as two peas.
 
- MEGARIAN
+MEGARIAN
  They are born of the same father and mother; let them be fattened,
  let them grow their bristles, and they will be the finest sows you can
  offer to Aphrodite.
 
- DICAEOPOLIS
+DICAEOPOLIS
  But sows are not immolated to Aphrodite.
 
- MEGARIAN
+MEGARIAN
  Not sows to Aphrodite!  Why, 'tis the only goddess to whom they
  are offered!  the flesh of my sows will be excellent on the spit.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Can they eat alone?  They no longer need their mother!
 
- MEGARIAN
+MEGARIAN
  Certainly not, nor their father.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What do they like most?
 
- MEGARIAN
+MEGARIAN
  Whatever is given them; but ask for yourself.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Speak! little sow.
 
- DAUGHTER
+DAUGHTER
  Wee-wee, wee-wee!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Can you eat chick-pease?
 
- DAUGHTER
+DAUGHTER
  Wee-wee, wee-wee, wee-wee!
 
- DICAEOPOLIS
+DICAEOPOLIS
  And Attic figs?
 
- DAUGHTER
+DAUGHTER
  Wee-wee, wee-wee!
 
- DICAEOPOLIS
+DICAEOPOLIS
  What sharp squeaks at the name of figs.  Come, let some figs be
  brought for these little pigs.  Will they eat them?  Goodness! how
  they munch them, what a grinding of teeth, mighty Heracles! I
  believe those pigs hail from the land of the Voracians.  But surely
  'tis impossible they have bolted all the figs!
 
- MEGARIAN
+MEGARIAN
  Yes, certainly, bar this one that I took from them.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! what funny creatures!  For what sum will you sell them?
 
- MEGARIAN
+MEGARIAN
  I will give you one for a bunch of garlic, and the other, if you
  like, for a quart measure of salt.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I buy them of you.  Wait for me here.
 
- MEGARIAN
+MEGARIAN
  The deal is done.  Hermes, god of good traders, grant I may sell
  both my wife and my mother in the same way!
 
- AN INFORMER
+AN INFORMER
  Hi! fellow, what countryman are you?
 
- MEGARIAN
+MEGARIAN
  I am a pig-merchant from Megara.
 
- INFORMER
+INFORMER
  I shall denounce both your pigs and yourself as public enemies.
 
- MEGARIAN
+MEGARIAN
  Ah! here our troubles begin afresh!
 
- INFORMER
+INFORMER
  Let go that sack.  I will punish your Megarian lingo!(1)
 
  f(1) The Megarians used the Doric dialect.
 
- MEGARIAN
+MEGARIAN
  Dicaeopolis, Dicaeopolis, they want to denounce me.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Who dares do this thing?  Inspectors, drive out the informers.
  Ah! you offer to enlighten us without a lamp!(1)
 
  f(1) A play upon (a) word which both means 'to light' and 'to denounce.'
 
- INFORMER
+INFORMER
  What! I may not denounce our enemies?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Have a care for yourself, if you don't go off pretty quick to denounce
  elsewhere.
 
- MEGARIAN
+MEGARIAN
  What a plague to Athens!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Be reassured, Megarian.  Here is the price for your two swine,
  the garlic and the salt.  Farewell and much happiness!
 
- MEGARIAN
+MEGARIAN
  Ah! we never have that amongst us.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Well! may the inopportune wish apply to myself.
 
- MEGARIAN
+MEGARIAN
  Farewell, dear little sows, and seek, far from your father, to
  munch your bread with salt, if they give you any.
 
- CHORUS
+CHORUS
  Here is a man truly happy.  See how everything succeeds to his
  wish.  Peacefully seated in his market, he will earn his living; woe to
  Ctesias,(1) and all other informers who dare to enter there!  You will not
@@ -1740,7 +1737,7 @@ in the country.
 
  f(7) A debauchee, a gambler, and always in extreme poverty.
 
- A BOEOTIAN
+A BOEOTIAN
  By Heracles! my shoulder is quite black and blue.  Ismenias, put
  the penny-royal down there very gently, and all of you, musicians
  from Thebes, pipe with your bone flutes into a dog's rump.(1)
@@ -1748,14 +1745,14 @@ in the country.
  f(1) This kind of flute had a bellows, made of dog-skin, much like
  the bagpipes of to-day.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Enough, enough, get you gone.  Rascally hornets, away with you!
  Whence has sprung this accursed swarm of Charis(1) fellows which comes
  assailing my door?
 
  f(1) A flute-player, mentioned above.
 
- BOEOTIAN
+BOEOTIAN
  Ah!  by Iolas!(1) Drive them off, my dear host, you will please me
  immensely; all the way from Thebes, they were there piping behind me
  and have completely stripped my penny-royal of its blossom.
@@ -1763,34 +1760,34 @@ in the country.
 
  f(1) A hero, much honoured in Thebes; nephew of Heracles.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! good day, Boeotian, eater of good round loaves.(1) What do you
  bring?
 
  f(1) A form of bread peculiar to Boeotia.
 
- BOEOTIAN
+BOEOTIAN
  All that is good in Boeotia, marjoram, penny-royal, rush-mats,
  lamp-wicks, ducks, jays, woodcocks, water-fowl, wrens, divers.
 
- DICAEOPOLIS
+DICAEOPOLIS
  'Tis a very hail of birds that beats down on my market.
 
- BOEOTIAN
+BOEOTIAN
  I also bring geese, hares, foxes, moles, hedgehogs, cats, lyres,
  martins, otters and eels from the Copaic lake.(1)
 
  f(1) A lake in Boeotia.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! my friend, you, who bring me the most delicious of fish,
  let me salute your eels.
 
- BOEOTIAN
+BOEOTIAN
  Come, thou, the eldest of my fifty Copaic virgins, come and
  complete the joy of our host.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh! my well-beloved, thou object of my long regrets, thou art here
  at last then, thou, after whom the comic poets sigh, thou, who art
  dear to Morychus.(1)  Slaves, hither with the stove and the bellows.
@@ -1805,151 +1802,151 @@ in the country.
  Acharnians' to 436 B.C., the sixth  year of the War, since the
  beginning of which Boeotia had been closed to the Athenians.
 
- BOEOTIAN
+BOEOTIAN
  And what will you give me in return?
 
- DICAEOPOLIS
+DICAEOPOLIS
  It will pay for your market dues.  And as to the rest, what do
  you wish to sell me?
 
- BOEOTIAN
+BOEOTIAN
  Why, everything.
 
- DICAEOPOLIS
+DICAEOPOLIS
  On what terms?  For ready-money or in wares from these parts?
 
- BOEOTIAN
+BOEOTIAN
  I would take some Athenian produce, that we have not got
  in Boeotia.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Phaleric anchovies, pottery?
 
- BOEOTIAN
+BOEOTIAN
  Anchovies, pottery?  But these we have.  I want produce that is
  wanting with us and that is plentiful here.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! I have the very thing; take away an Informer, packed up
  carefully as crockery-ware.
 
- BOEOTIAN
+BOEOTIAN
  By the twin gods!  I should earn big money, if I took one; I
  would exhibit him as an ape full of spite.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Hah! here we have Nicarchus,(1) who comes to denounce you.
 
  f(1) An informer.
 
- BOEOTIAN
+BOEOTIAN
  How small he is!
 
- DICAEOPOLIS
+DICAEOPOLIS
  But in his case the whole is one mass of ill-nature.
 
- NICARCHUS
+NICARCHUS
  Whose are these goods?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Mine; they come from Boeotia, I call Zeus to witness.
 
- NICARCHUS
+NICARCHUS
  I denounce them as coming from an enemy's country.
 
- BOEOTIAN
+BOEOTIAN
  What! you declare war against birds?
 
- NICARCHUS
+NICARCHUS
  And I am going to denounce you too.
 
- BOEOTIAN
+BOEOTIAN
  What harm have I done you?
 
- NICARCHUS
+NICARCHUS
  I will say it for the benefit of those that listen; you introduce lamp-wicks
  from an enemy's country.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Then you go as far as denouncing a wick.
 
- NICARCHUS
+NICARCHUS
  It needs but one to set an arsenal afire.
 
- DICAEOPOLIS
+DICAEOPOLIS
  A wick set an arsenal ablaze!  But how, great gods?
 
- NICARCHUS
+NICARCHUS
  Should a Boeotian attach it to an insect's wing, and, taking
  advantage of a violent north wind, throw it by means of a tube into
  the arsenal and the fire once get hold of the vessels, everything
  would soon be devoured by the flames.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! wretch! an insect and a wick devour everything!
  (HE STRIKES HIM.)
 
- NICARCHUS (TO THE CHORUS)
+NICARCHUS (TO THE CHORUS)
  You will bear witness, that he mishandles me.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Shut his mouth.  Give me some hay; I am going to pack him up like
  a vase, that he may not get broken on the road.
 
- CHORUS
+CHORUS
  Pack up your goods carefully, friend; that the stranger may not
  break it when taking it away.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I shall take great care with it, for one would say he is cracked already;
  he rings with a false note, which the gods abhor.
 
- CHORUS
+CHORUS
  But what will be done with him?
 
- DICAEOPOLIS
+DICAEOPOLIS
  This is a vase good for all purposes; it will be used as a vessel for holding
  all foul things, a mortar for pounding together law-suits, a lamp
  for spying upon accounts, and as a cup for the mixing up and poisoning
  of everything.
 
- CHORUS
+CHORUS
  None could ever trust a vessel for domestic use that has such a
  ring about it.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh! it is strong, my friend, and will never get broken, if care is
  taken to hang it head downwards.
 
- CHORUS
+CHORUS
  There! it is well packed now!
 
- BOEOTIAN
+BOEOTIAN
  Marry, I will proceed to carry off my bundle.
 
- CHORUS
+CHORUS
  Farewell, worthiest of strangers, take this informer, good for
  anything, and fling him where you like.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Bah! this rogue has given me enough trouble to pack!  Here!
  Boeotian, pick up your pottery.
 
- BOEOTIAN
+BOEOTIAN
  Stoop, Ismenias, that I may put it on your shoulder, and be very
  careful with it.
 
- DICAEOPOLIS
+DICAEOPOLIS
  You carry nothing worth having; however, take it, for you will
  profit by your bargain; the Informers will bring you luck.
 
- A SERVANT OF LAMACHUS
+A SERVANT OF LAMACHUS
  Dicaeopolis!
 
- DICAEOPOLIS
+DICAEOPOLIS
  What do you want crying this gait?
 
- SERVANT
+SERVANT
  Lamachus wants to keep the Feast of Cups,(1) and I come by his order
  to bid you one drachma for some thrushes and three more for a Copaic eel.
 
@@ -1959,15 +1956,15 @@ in the country.
  Vases, filled with grain of all kinds, were borne in procession and
  dedicated to Hermes.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And who is this Lamachus, who demands an eel?
 
- SERVANT
+SERVANT
  'Tis the terrible, indefatigable Lamachus, who is always brandishing
  his fearful Gorgon's head and the three plumes which o'ershadow
  his helmet.
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, no, he will get nothing, even though he gave me his buckler.
  Let him eat salt fish, while he shakes his plumes, and, if he comes
  here making any din, I shall call the inspectors.  As for myself,
@@ -1976,7 +1973,7 @@ in the country.
 
  f(1) A parody on some verses from a lost poet.
 
- CHORUS
+CHORUS
  You see, citizens, you see the good fortune which this man owes to
  his prudence, to his profound wisdom.  You see how, since he has
  concluded peace, he buys what is useful in the household and good to
@@ -1995,7 +1992,7 @@ in the country.
  f(1) A feasting song in honour of Harmodius, the assassin of Hipparchus
  the Tyrant, son of Pisistratus.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh, Peace! companion of fair Aphrodite and of the sweet Graces,
  how charming are thy features and yet I never knew it!  Would that Eros
  might join me to thee, Eros, crowned with roses as Zeuxis(1) shows him to
@@ -2008,142 +2005,142 @@ in the country.
  f(1) The celebrated painter, born in Heraclea, a contemporary
  of Aristophanes.
 
- HERALD
+HERALD
  List, ye people!  As was the custom of your forebears, empty a full
  pitcher of wine at the call of the trumpet; he, who first sees the
  bottom, shall get a wine-skin as round and plump as Ctesiphon's belly.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Women, children, have you not heard?  Faith! do you not heed the
  herald?  Quick! let the hares boil and roast merrily; keep them
  a-turning; withdraw them from the flame; prepare the chaplets;
  reach me the skewers that I may spit the thrushes.
 
- CHORUS
+CHORUS
  I envy you your wisdom and even more your good cheer.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What then will you say when you see the thrushes roasting?
 
- CHORUS
+CHORUS
  Ah! true indeed!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Slave! stir up the fire.
 
- CHORUS
+CHORUS
  See, how he knows his business, what a perfect cook!  How well
  he understands the way to prepare a good dinner!
 
- A HUSBANDMAN
+A HUSBANDMAN
  Ah! woe is me!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Heracles! What have we here?
 
- HUSBANDMAN
+HUSBANDMAN
  A most miserable man.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Keep your misery for yourself.
 
- HUSBANDMAN
+HUSBANDMAN
  Ah! friend! since you alone are enjoying peace, grant me a part
  of your truce, were it but five years.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What has happened to you?
 
- HUSBANDMAN
+HUSBANDMAN
  I am ruined; I have lost a pair of steers.
 
- DICAEOPOLIS
+DICAEOPOLIS
  How?
 
- HUSBANDMAN
+HUSBANDMAN
  The Boeotians seized them at Phyle.(1)
 
  f(1) A deme and frontier fortress of Attica, near the Boeotian border.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! poor wretch! and yet you have not left off white?
 
- HUSBANDMAN
+HUSBANDMAN
  Their dung made my wealth.
 
- DICAEOPOLIS
+DICAEOPOLIS
  What can I do in the matter?
 
- HUSBANDMAN
+HUSBANDMAN
  Crying for my beasts has lost me my eyesight.  Ah! if you care for poor
  Dercetes of Phyle, anoint mine eyes quickly with your balm of peace.
 
- DICAEOPOLIS
+DICAEOPOLIS
  But, my poor fellow, I do not practise medicine.
 
- HUSBANDMAN
+HUSBANDMAN
  Come, I adjure you; perhaps I shall recover my steers.
 
- DICAEOPOLIS
+DICAEOPOLIS
  'Tis impossible; away, go and whine to the disciples of Pittalus.(1)
 
  f(1) An Athenian physician of the day.
 
- HUSBANDMAN
+HUSBANDMAN
  Grant me but one drop of peace; pour it into this reedlet.
 
- DICAEOPOLIS
+DICAEOPOLIS
  No, not a particle; go a-weeping elsewhere.
 
- HUSBANDMAN
+HUSBANDMAN
  Oh! oh! oh! my poor beasts!
 
- CHORUS
+CHORUS
  This man has discovered the sweetest enjoyment in peace; he will share it
  with none.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Pour honey over this tripe; set it before the fire to dry.
 
- CHORUS
+CHORUS
  What lofty tones he uses!  Did you hear him?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Get the eels on the gridiron!
 
- CHORUS
+CHORUS
  You are killing me with hunger; your smoke is choking your
  neighbours, and you split our ears with your bawling.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Have this fried and let it be nicely browned.
 
- A BRIDESMAID
+A BRIDESMAID
  Dicaeopolis!  Dicaeopolis!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Who are you?
 
- BRIDESMAID
+BRIDESMAID
  A young bridegroom sends you these viands from the marriage feast.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Whoever he be, I thank him.
 
- BRIDESMAID
+BRIDESMAID
  And in return, he prays you to pour a glass of peace into this vase,
  that he may not have to go to the front and may stay at home
  to do his duty to his young wife.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Take back, take back your viands; for a thousand drachmae I
  would not give a drop of peace; but who are you, pray?
 
- BRIDESMAID
+BRIDESMAID
  I am the bridesmaid; she wants to say something to you
  from the bride privately.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Come, what do you wish to say?  (THE BRIDESMAID WHISPERS IN
  HIS EAR.)  Ah! what a ridiculous demand!  The bride burns with longing
  to keep by her her husband's weapon.  Come! \bring hither my truce; to
@@ -2154,49 +2151,49 @@ in the country.
  most needed.  There, slave, take away my truce!  Now, quick, bring me
  the wine-flagon, that I may fill up the drinking bowls!
 
- CHORUS
+CHORUS
  I see a man, striding along apace, with knitted brows; he seems
  to us the bearer of terrible tidings.
 
- HERALD
+HERALD
  Oh! toils and battles, 'tis Lamachus!
 
- LAMACHUS
+LAMACHUS
  What noise resounds around my dwelling, where shines the glint
  of arms.
 
- HERALD
+HERALD
  The Generals order you forthwith to take your battalions and
  your plumes, and, despite the snow, to go and guard our borders.
  They have learnt that a band of Boeotians intend taking advantage
  of the Feast of Cups to invade our country.
 
- LAMACHUS
+LAMACHUS
  Ah! the Generals! they are numerous, but not good for much!
  It's cruel, not to be able to enjoy the feast!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Oh! warlike host of Lamachus!
 
- LAMACHUS
+LAMACHUS
  Wretch! do you dare to jeer me?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Do you want to fight this four-winged Geryon?
 
- LAMACHUS
+LAMACHUS
  Oh! oh! what fearful tidings!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! ah! I see another herald running up; what news does he bring me?
 
- HERALD
+HERALD
  Dicaeopolis!
 
- DICAEOPOLIS
+DICAEOPOLIS
  What is the matter?
 
- HERALD
+HERALD
  Come quickly to the feast and bring your basket and your cup;
  'tis the priest of Bacchus who invites you.  But hasten, the guests
  have been waiting for you a long while.  All is ready--couches,
@@ -2204,147 +2201,147 @@ in the country.
  biscuits, cakes, sesame-bread, tarts, lovely dancing women, the sweetest
  charm of the festivity.  But come with all haste.
 
- LAMACHUS
+LAMACHUS
  Oh! hostile gods!
 
- DICAEOPOLIS
+DICAEOPOLIS
  This is not astounding; you have chosen this huge, great ugly Gorgon's head
  for your patron.  You, shut the door, and let someone get ready the meal.
 
- LAMACHUS
+LAMACHUS
  Slave! slave! my knapsack!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Slave! slave! a basket!
 
- LAMACHUS
+LAMACHUS
  Take salt and thyme, slave, and don't forget the onions.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Get some fish for me; I cannot bear onions.
 
- LAMACHUS
+LAMACHUS
  Slave, wrap me up a little stale salt meat in a fig-leaf.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And for me some good greasy tripe in a fig-leaf; I will have it cooked here.
 
- LAMACHUS
+LAMACHUS
  Bring me the plumes for my helmet.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Bring me wild pigeons and thrushes.
 
- LAMACHUS
+LAMACHUS
  How white and beautiful are these ostrich feathers!
 
- DICAEOPOLIS
+DICAEOPOLIS
  How fat and well browned is the flesh of this wood-pigeon!
 
- LAMACHUS
+LAMACHUS
  Bring me the case for my triple plume.
 
- DICAEOPOLIS
+DICAEOPOLIS
 
- Pass me over that dish of hare.
+Pass me over that dish of hare.
 
- LAMACHUS
+LAMACHUS
  OH! the moths have eaten the hair of my crest.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I shall always eat hare before dinner.
 
- LAMACHUS
+LAMACHUS
  Hi! friend! try not to scoff at my armor?
 
- DICAEOPOLIS
+DICAEOPOLIS
  Hi! friend! will you kindly not stare at my thrushes.
 
- LAMACHUS
+LAMACHUS
  Hi! friend! will you kindly not address me.
 
- DICAEOPOLIS
+DICAEOPOLIS
  I do not address you; I am scolding my slave.  Shall we wager and submit
  the matter to Lamachus, which of the two is the best to eat, a locust or
  a thrush?
 
- LAMACHUS
+LAMACHUS
  Insolent hound!
 
- DICAEOPOLIS
+DICAEOPOLIS
  He much prefers the locusts.
 
- LAMACHUS
+LAMACHUS
  Slave, unhook my spear and bring it to me.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Slave, slave, take the sausage from the fire and bring it to me.
 
- LAMACHUS
+LAMACHUS
  Come, let me draw my spear from its sheath.  Hold it, slave, hold it tight.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And you, slave, grip, grip well hold of the skewer.
 
- LAMACHUS
+LAMACHUS
  Slave, the bracings for my shield.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Pull the loaves out of the oven and bring me these bracings of my stomach.
 
- LAMACHUS
+LAMACHUS
  My round buckler with the Gorgon's head.
 
- DICAEOPOLIS
+DICAEOPOLIS
  My round cheese-cake.
 
- LAMACHUS
+LAMACHUS
  What clumsy wit!
 
- DICAEOPOLIS
+DICAEOPOLIS
  What delicious cheese-cake!
 
- LAMACHUS
+LAMACHUS
  Pour oil on the buckler.  Hah! hah! I can see reflected there an old
  man who will be accused of cowardice.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Pour honey on the cake.  Hah! hah! I can see an old man who makes
  Lamachus of the Gorgon's head weep with rage.
 
- LAMACHUS
+LAMACHUS
  Slave, full war armour.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Slave, my beaker; that is MY armour.
 
- LAMACHUS
+LAMACHUS
  With this I hold my ground with any foe.
 
- DICAEOPOLIS
+DICAEOPOLIS
  And I with this with any tosspot.
 
- LAMACHUS
+LAMACHUS
  Fasten the strappings to the buckler; personally I shall carry the knapsack
 
- DICAEOPOLIS
+DICAEOPOLIS
  Pack the dinner well into the basket; personally I shall carry the cloak.
 
- LAMACHUS
+LAMACHUS
  Slave, take up the buckler and let's be off.  It is snowing!  Ah!
  'tis a question of facing the winter.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Take up the basket, 'tis a question of getting to the feast.
 
 
- CHORUS
+CHORUS
  We wish you both joy on your journeys, which differ so much.  One goes
  to mount guard and freeze, while the other will drink, crowned
  with flowers, and then sleep with a young beauty, who will excite
  him readily.
 
- I say it freely; may Zeus confound Antimachus, the poet-historian,
+I say it freely; may Zeus confound Antimachus, the poet-historian,
  the son of Psacas!  When Choregus at the Lenaea, alas! alas! he
  dismissed me dinnerless.  May I see him devouring with his eyes a
  cuttle-fish, just served, well cooked, hot and properly salted; and
@@ -2361,7 +2358,7 @@ in the country.
 
  f(2) No doubt the comic poet, rival of Aristophanes.
 
- SLAVE OF LAMACHUS
+SLAVE OF LAMACHUS
  Slaves of Lamachus!  Water, water in a little pot!  Make it warm, get ready
  cloths, cerate greasy wool and bandages for his ankle.  In leaping a ditch,
  the master has hurt himself against a stake; he has dislocated and twisted
@@ -2378,91 +2375,89 @@ in the country.
  the boasting of Lamachus, who was always ascribing to himself most
  unlikely exploits.
 
- LAMACHUS
+LAMACHUS
  Oh! heavens! oh! heavens! What cruel pain!  I faint, I tremble!  Alas!
  I die!  the foe's lance has struck me!  But what would hurt me most
  would be for Dicaeopolis to see me wounded thus and laugh
  at my ill-fortune.
 
- DICAEOPOLIS (ENTERS WITH TWO COURTESANS)
+DICAEOPOLIS (ENTERS WITH TWO COURTESANS)
  Oh!  my gods!  what bosoms!  Hard as a quince!  Come, my treasures, give
  me voluptuous kisses!  Glue your lips to mine.  Haha! I was the first to
  empty my cup.
 
- LAMACHUS
+LAMACHUS
  Oh! cruel fate! how I suffer!  accursed wounds!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Hah! hah! hail! Knight Lamachus!  (EMBRACES LAMACHUS.)
 
- LAMACHUS
+LAMACHUS
  By the hostile gods!  (BITES DICAEOPOLIS.)
 
- DICAEOPOLIS
+DICAEOPOLIS
  Ah! Great gods!
 
- LAMACHUS
+LAMACHUS
  Why do you embrace me?
 
- DICAEOPOLIS
+DICAEOPOLIS
  And why do you bite me?
 
- LAMACHUS
+LAMACHUS
  'Twas a cruel score I was paying back!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Scores are not evened at the Feast of Cups!
 
- LAMACHUS
+LAMACHUS
  Oh! Paean, Paean!
 
- DICAEOPOLIS
+DICAEOPOLIS
  But to-day is not the feast of Paean.
 
- LAMACHUS
+LAMACHUS
  Oh! support my leg, do; ah! hold it tenderly, my friends!
 
- DICAEOPOLIS
+DICAEOPOLIS
  And you, my darlings, take hold of this, both of you!
 
- LAMACHUS
+LAMACHUS
  This blow with the stone makes me dizzy; my sight grows dim.
 
- DICAEOPOLIS
+DICAEOPOLIS
  For myself, I want to get to bed; I am bursting with lustfulness,
  I want to be bundling in the dark.
 
- LAMACHUS
+LAMACHUS
  Carry me to the surgeon Pittalus.
 
- DICAEOPOLIS
+DICAEOPOLIS
  Take me to the judges.  Where is the king of the feast?
  The wine-skin is mine!
 
- LAMACHUS
+LAMACHUS
  That spear has pierced my bones; what torture I endure!
 
- DICAEOPOLIS
+DICAEOPOLIS
  You see this empty cup!  I triumph! I triumph!
 
- CHORUS
+CHORUS
  Old man, I come at your bidding!  You triumph! you triumph!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Again I have brimmed my cup with unmixed wine and drained it at
  a draught!
 
- CHORUS
+CHORUS
  You triumph then, brave champion; thine is the wine-skin!
 
- DICAEOPOLIS
+DICAEOPOLIS
  Follow me, singing "Triumph! Triumph!"
 
- CHORUS
+CHORUS
  Aye!  we will sing of thee, thee and thy sacred wine-skin, and we all,
  as we follow thee, will repeat in thine honour, "Triumph, Triumph!"
-
-
 
 
 
@@ -2474,7 +2469,8 @@ End of the Project Gutenberg EBook of The Acharnians, by Aristophanes
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/3/0/1/3012/
 
-Produced by Derek Davis
+Produced by Derek Davis, and David Widger
+
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -2827,3 +2823,5 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
+
